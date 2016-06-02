@@ -10,7 +10,7 @@ Laravel là một trong những framework phát triển và phổ biến nhất 
 * [pagination](data/pagination.md)
 * [route](data/route.md)
 
-**Nếu có thuật ngữ nào trong Laravel mà bạn không hiểu và không có trong danh sách này, bạn có thể tạo một issue mới để yêu cầu giải nghĩa, hoặc bạn có thể đóng góp vào trong danh sách.**
+**Nếu có thuật ngữ nào trong Laravel mà bạn không hiểu và không có trong danh sách này, bạn có thể tạo [một issue mới](https://github.com/petehouston/thuat-ngu-laravel/issues) để yêu cầu giải nghĩa, hoặc bạn có thể đóng góp vào trong danh sách.**
 
 ## Đóng góp
 
