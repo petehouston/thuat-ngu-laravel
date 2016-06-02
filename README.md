@@ -5,6 +5,7 @@ Laravel là một trong những framework phát triển và phổ biến nhất 
 ## Danh sách thuật ngữ
 
 * [service](data/service.md)
+* [dependency injection](data/dependency_injection.md)
 
 ## Đóng góp
 
