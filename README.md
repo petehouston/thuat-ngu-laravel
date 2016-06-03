@@ -12,6 +12,7 @@ Laravel là một trong những framework phát triển và phổ biến nhất 
 * [dot notation](data/dot_notation.md)
 * [laravel installer](data/laravel_installer.md)
 * [localization](data/localization.md)
+* [package](data/package.md)
 * [pagination](data/pagination.md)
 * [route](data/route.md)
 * [route parameter](data/route_parameter.md)
