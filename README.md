@@ -16,6 +16,7 @@ Laravel là một trong những framework phát triển và phổ biến nhất 
 * [localization](data/localization.md)
 * [package](data/package.md)
 * [pagination](data/pagination.md)
+* [publish](data/publish.md)
 * [route](data/route.md)
 * [route parameter](data/route_parameter.md)
 
