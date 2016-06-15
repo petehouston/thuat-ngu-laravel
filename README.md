@@ -15,6 +15,7 @@ Laravel là một trong những framework phát triển và phổ biến nhất 
 * [laravel installer](data/laravel_installer.md)
 * [lifecycle](data/lifecycle.md)
 * [localization](data/localization.md)
+* [middlware](data/middleware.md)
 * [migration](data/migration.md)
 * [package](data/package.md)
 * [pagination](data/pagination.md)
